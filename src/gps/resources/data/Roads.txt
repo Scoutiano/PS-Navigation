@@ -1,0 +1,93 @@
+Metula,Dafna,13
+Metula,Qiryat Shemona,9.2
+Qiryat Shemona,Kfar Blum,7.6
+Qiryat Shemona,Dafna,8.7
+Dafna,Kfar Blum,13.4
+Kfar Blum,Yesod HaMa'ala,20.3
+Yesod HaMa'ala,Safed,21.6
+Safed,Nahariyya,51.8
+Safed,Karmiel,33.9
+Safed,Tiberias,36.9
+Nahariyya,Karmiel,32
+Nahariyya,Acre,9.1
+Karmiel,Tiberias,39.1
+Karmiel,Acre,24.3
+Karmiel,Kiryat Ata,32.3
+Karmiel,Nazareth,44.2
+Acre,Kiryat Ata,19.3
+Acre,Haifa,25.5
+Kiryat Ata,Haifa,14.5
+Kiryat Ata,Kiryat Tiv'on,18.8
+Kiryat Ata,Nazareth,31.8
+Haifa,Atlit,19.6
+Haifa,Kiryat Tiv'on,21.5
+Atlit,Zihron Ya'akov,24.2
+Kiryat Tiv'on,Nazareth,27.4
+Kiryat Tiv'on,Afula,26.4
+Kiryat Tiv'on,Umm al-Fahm,30.8
+Nazareth,Tiberias,31
+Nazareth,Afula,12.2
+Tiberias,Kfar Tavor,23.8
+Afula,Kfar Tavor,16.3
+Afula,Umm al-Fahm,20
+Afula,Jenin,19.6
+Umm al-Fahm,Zihron Ya'akov,38.4
+Umm al-Fahm,Jenin,34
+Zihron Ya'akov,Hadera,19.3
+Jenin,Tubas,30.3
+Jenin,Sebastia,35.4
+Hadera,Netanya,19.5
+Hadera,Tulkarm,29
+Netanya,Tulkarm,17
+Netanya,Ga'ash,12.9
+Tulkarm,Anabta,9.8
+Tulkarm,Qalqilya,30
+Anabta,Sebastia,28.8
+Sebastia,Tubas,22.9
+Sebastia,Nablus,32.8
+Tubas,Ein Al-Beida,10.5
+Tubas,Ma'ale Efraim,48.4
+Ein Al-Beida,Nablus,9.5
+Nablus,Azzun,23.4
+Nablus,Kfar Tapuach,14.8
+Nablus,Ma'ale Efraim,33
+Ma'ale Efraim,Jericho,44.6
+Kfar Tapuach,Ramallah,42.2
+Qalqilya,Azzun,9.8
+Qalqilya,Kefar Sava,16.2
+Jericho,Ma'ale Adumim,26.4
+Jericho,Jerusalem,38.5
+Ramallah,Beit Hanina,10.8
+Ramallah,Shilat,31.1
+Shilat,Lod,19.3
+Kefar Sava,Ga'ash,18.3
+Kefar Sava,Petah Tikva,15.5
+Ga'ash,Tel Aviv,18.4
+Petah Tikva,Bnei Brak,7.1
+Petah Tikva,Ramat Gan,9.6
+Petah Tikva,Lod,17.4
+Bnei Brak,Ramat Gan,3
+Bnei Brak,Tel Aviv,6.3
+Ramat Gan,Tel Aviv,6.8
+Ramla,Lod,5.4
+Ramla,Yavne,24.2
+Ramla,Mesilat Zion,26.3
+Ramla,Tel Shahar,19.7
+Yavne,Ashdod,16.2
+Ashdod,Ashkelon,21.8
+Ashdod,Tel Shahar,28
+Tel Shahar,Bet Shemesh,19.6
+Bet Shemesh,Mesilat Zion,10.6
+Bet Shemesh,Bethlehem,47.6
+Bet Shemesh,Jerusalem,35.2
+Mesilat Zion,Beit Hanina,27
+Beit Hanina,Jerusalem,10.9
+Jerusalem,Ramat Rachel,4.9
+Ramat Rachel,Bethlehem,6.3
+Ma'ale Adumim,Jerusalem,17.2
+Bethlehem,Hebron,35.3
+Hebron,Yata,14.6
+Hebron,Beit Kama,45.4
+Yata,Beit Kama,52.5
+Yata,Be'er Sheva,43.2
+Beit Kama,Be'er Sheva,24.7

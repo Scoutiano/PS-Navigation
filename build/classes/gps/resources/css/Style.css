@@ -1,0 +1,60 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Dec 15, 2020, 10:43:42 AM
+    Author     : Mohanad
+*/
+
+.button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+.scroll-pane {
+    -fx-background-color: #282828;
+    
+}
+
+.scroll-bar:horizontal, .scroll-bar:vertical{
+    -fx-background-color: #282828;
+}
+
+.increment-button, .decrement-button {
+    -fx-background-color: #282828;
+    -fx-border-color: #282828;
+}
+
+.scroll-bar:horizontal .thumb,
+.scroll-bar:vertical .thumb {
+    -fx-background-color: #4d4d4d;
+}
+
+.scroll-pane > .corner {
+    -fx-background-color: #282828;
+}
+
+.combo-box .list-view .list-cell {
+    -fx-text-fill: #FFFFFF;
+    -fx-background-color: #484848;
+}
+
+.combo-box .list-view {
+    -fx-background-color: #484848;
+}
+
+.combo-box-popup .list-view .list-cell:hover {
+    -fx-text-fill: green;
+}
+
+.combo-box .cell:selected {
+    -fx-text-fill: #FFFFFF;
+}
